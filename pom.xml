@@ -89,7 +89,7 @@
 				<version>2.2.0</version>
 				<configuration>
 					<version>1</version>
-					<projectId>my-project-61756</projectId>
+					<projectId>GCLOUD_CONFIG</projectId>
 				</configuration>
 			</plugin>
 		</plugins>
