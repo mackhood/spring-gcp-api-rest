@@ -54,7 +54,7 @@ Paths availables:
     
     
 
-# This project is running in this domain so you can try the following path in this domain feel free to test.
+# This project is running in this domain so you can try the api,feel free to test.
 
  https://my-project-61756.uc.r.appspot.com/
 	
